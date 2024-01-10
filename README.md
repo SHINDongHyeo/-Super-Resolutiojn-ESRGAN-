@@ -7,4 +7,8 @@ https://www.tensorflow.org/hub/tutorials/image_enhancing?hl=ko
 
 해당 글의 코드를 이용해 테스트를 진행했습니다.
 
-## 결과
+## 텐서플로우 제공 이미지 결과
+![image](https://github.com/SHINDongHyeo/ESRGAN-super-resolution-model/assets/96512568/4a3ab55b-0f8c-4dfe-9018-297d974fd415)
+![image](https://github.com/SHINDongHyeo/ESRGAN-super-resolution-model/assets/96512568/d8279d09-6939-4203-96dc-e3e89df17000)
+
+
